@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tantrumn.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\TantrumnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\Tantrumn.cpp.obj"
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\TantrumnGameModeBase.cpp.obj"
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\Tantrumn.init.gen.cpp.obj"
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\TantrumnGameModeBase.gen.cpp.obj"
+"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\Default.rc2.res"
+/OUT:"C:\Users\amelchiore\Documents\GitHub\Tantrumn\Tantrumn\Intermediate\Build\Win64\UnrealEditor\Development\Tantrumn\UnrealEditor-Tantrumn.lib"

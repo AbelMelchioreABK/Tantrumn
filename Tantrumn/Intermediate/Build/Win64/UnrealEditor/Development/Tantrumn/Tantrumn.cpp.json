@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\amelchiore\\documents\\github\\tantrumn\\tantrumn\\source\\tantrumn\\tantrumn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\amelchiore\\documents\\github\\tantrumn\\tantrumn\\intermediate\\build\\win64\\tantrumneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\amelchiore\\documents\\github\\tantrumn\\tantrumn\\intermediate\\build\\win64\\unrealeditor\\development\\tantrumn\\definitions.tantrumn.h",
+            "c:\\users\\amelchiore\\documents\\github\\tantrumn\\tantrumn\\source\\tantrumn\\tantrumn.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
